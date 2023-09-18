@@ -19,7 +19,11 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/thin-film-resistor-cad-tool.git
+   git clone https://github.com/jc-costa/Stick_Percolation_Model.git
+   ```
+   or
+   ```
+   git clone git@github.com:jc-costa/Stick_Percolation_Model.git
    ```
 
 2. **Dependencies**: Make sure you have all the necessary dependencies installed. Check the project's documentation for a list of required libraries and packages.
