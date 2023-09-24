@@ -8,9 +8,9 @@ Welcome to the Thin-Film Resistor CAD Tool repository! This project aims to deve
 
 The specific objectives of this project include:
 
-1. **Compute Impedance**: Develop algorithms to compute the impedance of the conducting pathways within the thin-film resistor network. This step is crucial for understanding the electrical behavior of the resistor.
-
-2. **Identify Percolation Pathways**: Determine the value of 'N' at which percolation pathways begin to exist within the thin-film resistor network. This is a critical threshold for the functionality of the resistor.
+1. **Identify Percolation Pathways**: Determine the value of 'N' and value of 'a' at which percolation pathways begin to exist within the thin-film resistor network. This is a critical threshold for the functionality of the resistor.
+   
+2. **Compute Impedance**: Develop algorithms to compute the impedance of the conducting pathways within the thin-film resistor network. This step is crucial for understanding the electrical behavior of the resistor.
 
 ## Getting Started
 
