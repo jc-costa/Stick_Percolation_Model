@@ -12,7 +12,7 @@ The specific objectives of this project include:
    
 2. **Compute Impedance**: Develop algorithms to compute the impedance of the conducting pathways within the thin-film resistor network. This step is crucial for understanding the electrical behavior of the resistor.
 
-## Flowchart of the stick-percolation model
+## Flowchart Of The Stick-percolation Model
 
 ![Flowchart of the stick-percolation model](flowchart.png)
 ## Getting Started
